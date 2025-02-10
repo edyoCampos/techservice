@@ -1,0 +1,1502 @@
+{
+    "5501": {
+        "equipo_conjunto": {
+            "filtro": "SAE01",
+            "valor": "AA1"
+        }
+    },
+    "5502": {
+        "equipo_conjunto": {
+            "filtro": "SAE01",
+            "valor": "AA2"
+        }
+    },
+    "5503": {
+        "equipo_conjunto": {
+            "filtro": "SAE01",
+            "valor": "AL1"
+        }
+    },
+    "5504": {
+        "equipo_conjunto": {
+            "filtro": "SAE01",
+            "valor": "TA5"
+        }
+    },
+    "5505": {
+        "equipo_conjunto": {
+            "filtro": "SAE01",
+            "valor": "TAE"
+        }
+    },
+    "5506": {
+        "equipo_conjunto": {
+            "filtro": "SAE01",
+            "valor": "TPC"
+        }
+    },
+    "5507": {
+        "equipo_conjunto": {
+            "filtro": "SAE01",
+            "valor": "TR1"
+        }
+    },
+    "5508": {
+        "equipo_conjunto": {
+            "filtro": "SAE02",
+            "valor": "BA1"
+        }
+    },
+    "5509": {
+        "equipo_conjunto": {
+            "filtro": "SAE02",
+            "valor": "BA2"
+        }
+    },
+    "5510": {
+        "equipo_conjunto": {
+            "filtro": "SAE02",
+            "valor": "CE1"
+        }
+    },
+    "5511": {
+        "equipo_conjunto": {
+            "filtro": "SAE02",
+            "valor": "CE2"
+        }
+    },
+    "5512": {
+        "equipo_conjunto": {
+            "filtro": "SAE02",
+            "valor": "CE3"
+        }
+    },
+    "5513": {
+        "equipo_conjunto": {
+            "filtro": "SAE02",
+            "valor": "MO1"
+        }
+    },
+    "5514": {
+        "equipo_conjunto": {
+            "filtro": "SAE02",
+            "valor": "RE1"
+        }
+    },
+    "5515": {
+        "equipo_conjunto": {
+            "filtro": "SAE02",
+            "valor": "SI1"
+        }
+    },
+    "5516": {
+        "equipo_conjunto": {
+            "filtro": "SAE02",
+            "valor": "ST1"
+        }
+    },
+    "5517": {
+        "equipo_conjunto": {
+            "filtro": "SAE02",
+            "valor": "TA1"
+        }
+    },
+    "5518": {
+        "equipo_conjunto": {
+            "filtro": "SAE02",
+            "valor": "TA2"
+        }
+    },
+    "5519": {
+        "equipo_conjunto": {
+            "filtro": "SAE02",
+            "valor": "TP1"
+        }
+    },
+    "5520": {
+        "equipo_conjunto": {
+            "filtro": "SAE03",
+            "valor": "AA1"
+        }
+    },
+    "5521": {
+        "equipo_conjunto": {
+            "filtro": "SAE03",
+            "valor": "AA2"
+        }
+    },
+    "5522": {
+        "equipo_conjunto": {
+            "filtro": "SAE03",
+            "valor": "AL1"
+        }
+    },
+    "5523": {
+        "equipo_conjunto": {
+            "filtro": "SAE03",
+            "valor": "T10"
+        }
+    },
+    "5524": {
+        "equipo_conjunto": {
+            "filtro": "SAE03",
+            "valor": "T14"
+        }
+    },
+    "5525": {
+        "equipo_conjunto": {
+            "filtro": "SAE03",
+            "valor": "T15"
+        }
+    },
+    "5526": {
+        "equipo_conjunto": {
+            "filtro": "SAE03",
+            "valor": "TA2"
+        }
+    },
+    "5527": {
+        "equipo_conjunto": {
+            "filtro": "SAE03",
+            "valor": "TA3"
+        }
+    },
+    "5528": {
+        "equipo_conjunto": {
+            "filtro": "SAE03",
+            "valor": "TA4"
+        }
+    },
+    "5529": {
+        "equipo_conjunto": {
+            "filtro": "SAE03",
+            "valor": "TA5"
+        }
+    },
+    "5530": {
+        "equipo_conjunto": {
+            "filtro": "SAE03",
+            "valor": "TA6"
+        }
+    },
+    "5531": {
+        "equipo_conjunto": {
+            "filtro": "SAE03",
+            "valor": "TA8"
+        }
+    },
+    "5532": {
+        "equipo_conjunto": {
+            "filtro": "SAE03",
+            "valor": "TA9"
+        }
+    },
+    "5533": {
+        "equipo_conjunto": {
+            "filtro": "SAE03",
+            "valor": "TR1"
+        }
+    },
+    "5534": {
+        "equipo_conjunto": {
+            "filtro": "SAE03",
+            "valor": "TR2"
+        }
+    },
+    "5535": {
+        "equipo_conjunto": {
+            "filtro": "SAE03",
+            "valor": "UP1"
+        }
+    },
+    "5536": {
+        "equipo_conjunto": {
+            "filtro": "SAE04",
+            "valor": "TA3"
+        }
+    },
+    "5537": {
+        "equipo_conjunto": {
+            "filtro": "SAI01",
+            "valor": "CAL"
+        }
+    },
+    "5538": {
+        "equipo_conjunto": {
+            "filtro": "SAI01",
+            "valor": "COM"
+        }
+    },
+    "5539": {
+        "equipo_conjunto": {
+            "filtro": "SAI01",
+            "valor": "DIA"
+        }
+    },
+    "5540": {
+        "equipo_conjunto": {
+            "filtro": "SAI01",
+            "valor": "INS"
+        }
+    },
+    "5541": {
+        "equipo_conjunto": {
+            "filtro": "SAI01",
+            "valor": "RES"
+        }
+    },
+    "5542": {
+        "equipo_conjunto": {
+            "filtro": "SAI01",
+            "valor": "SEL"
+        }
+    },
+    "5543": {
+        "equipo_conjunto": {
+            "filtro": "SAI01",
+            "valor": "TUB"
+        }
+    },
+    "5544": {
+        "equipo_conjunto": {
+            "filtro": "SAL01",
+            "valor": "AA1"
+        }
+    },
+    "5545": {
+        "equipo_conjunto": {
+            "filtro": "SAL01",
+            "valor": "VEN"
+        }
+    },
+    "5546": {
+        "equipo_conjunto": {
+            "filtro": "SAL01",
+            "valor": "ALU"
+        }
+    },
+    "5547": {
+        "equipo_conjunto": {
+            "filtro": "SAL01",
+            "valor": "CAN"
+        }
+    },
+    "5548": {
+        "equipo_conjunto": {
+            "filtro": "SAL01",
+            "valor": "INF"
+        }
+    },
+    "5549": {
+        "equipo_conjunto": {
+            "filtro": "SAL01",
+            "valor": "PRE"
+        }
+    },
+    "5550": {
+        "equipo_conjunto": {
+            "filtro": "SAL01",
+            "valor": "T01"
+        }
+    },
+    "5551": {
+        "equipo_conjunto": {
+            "filtro": "SAL01",
+            "valor": "T02"
+        }
+    },
+    "5552": {
+        "equipo_conjunto": {
+            "filtro": "SAL01",
+            "valor": "T03"
+        }
+    },
+    "5553": {
+        "equipo_conjunto": {
+            "filtro": "SAL01",
+            "valor": "T04"
+        }
+    },
+    "5554": {
+        "equipo_conjunto": {
+            "filtro": "SAL01",
+            "valor": "T05"
+        }
+    },
+    "5555": {
+        "equipo_conjunto": {
+            "filtro": "SAL01",
+            "valor": "T06"
+        }
+    },
+    "5556": {
+        "equipo_conjunto": {
+            "filtro": "SAL01",
+            "valor": "T07"
+        }
+    },
+    "5557": {
+        "equipo_conjunto": {
+            "filtro": "SAL01",
+            "valor": "T08"
+        }
+    },
+    "5558": {
+        "equipo_conjunto": {
+            "filtro": "SAL01",
+            "valor": "T09"
+        }
+    },
+    "5559": {
+        "equipo_conjunto": {
+            "filtro": "SAL01",
+            "valor": "T10"
+        }
+    },
+    "5560": {
+        "equipo_conjunto": {
+            "filtro": "SAL01",
+            "valor": "T11"
+        }
+    },
+    "5561": {
+        "equipo_conjunto": {
+            "filtro": "SAL01",
+            "valor": "INS"
+        }
+    },
+    "5562": {
+        "equipo_conjunto": {
+            "filtro": "SAL01",
+            "valor": "AA2"
+        }
+    },
+    "5563": {
+        "equipo_conjunto": {
+            "filtro": "SAL02",
+            "valor": "AA1"
+        }
+    },
+    "5564": {
+        "equipo_conjunto": {
+            "filtro": "SAL02",
+            "valor": "TA1"
+        }
+    },
+    "5565": {
+        "equipo_conjunto": {
+            "filtro": "SAL02",
+            "valor": "TA2"
+        }
+    },
+    "5566": {
+        "equipo_conjunto": {
+            "filtro": "SAL02",
+            "valor": "TA3"
+        }
+    },
+    "5567": {
+        "equipo_conjunto": {
+            "filtro": "SAL02",
+            "valor": "TA4"
+        }
+    },
+    "5568": {
+        "equipo_conjunto": {
+            "filtro": "SAL02",
+            "valor": "TA5"
+        }
+    },
+    "5569": {
+        "equipo_conjunto": {
+            "filtro": "SAL02",
+            "valor": "TA6"
+        }
+    },
+    "5570": {
+        "equipo_conjunto": {
+            "filtro": "SAL02",
+            "valor": "TA7"
+        }
+    },
+    "5571": {
+        "equipo_conjunto": {
+            "filtro": "SAL03",
+            "valor": "AA1"
+        }
+    },
+    "5572": {
+        "equipo_conjunto": {
+            "filtro": "SAL04",
+            "valor": "AA1"
+        }
+    },
+    "5573": {
+        "equipo_conjunto": {
+            "filtro": "SAL04",
+            "valor": "AA2"
+        }
+    },
+    "5574": {
+        "equipo_conjunto": {
+            "filtro": "SAL05",
+            "valor": "AA1"
+        }
+    },
+    "5575": {
+        "equipo_conjunto": {
+            "filtro": "SAL05",
+            "valor": "AA2"
+        }
+    },
+    "5576": {
+        "equipo_conjunto": {
+            "filtro": "SAL05",
+            "valor": "AA3"
+        }
+    },
+    "5577": {
+        "equipo_conjunto": {
+            "filtro": "SAL05",
+            "valor": "AA4"
+        }
+    },
+    "5578": {
+        "equipo_conjunto": {
+            "filtro": "SAR01",
+            "valor": "INS"
+        }
+    },
+    "5579": {
+        "equipo_conjunto": {
+            "filtro": "SAR01",
+            "valor": "TUB"
+        }
+    },
+    "5580": {
+        "equipo_conjunto": {
+            "filtro": "SAR01",
+            "valor": "VA1"
+        }
+    },
+    "5581": {
+        "equipo_conjunto": {
+            "filtro": "SAR01",
+            "valor": "AA1"
+        }
+    },
+    "5582": {
+        "equipo_conjunto": {
+            "filtro": "SAR01",
+            "valor": "AA2"
+        }
+    },
+    "5583": {
+        "equipo_conjunto": {
+            "filtro": "SAR01",
+            "valor": "AA3"
+        }
+    },
+    "5584": {
+        "equipo_conjunto": {
+            "filtro": "SAT01",
+            "valor": "TR1"
+        }
+    },
+    "5585": {
+        "equipo_conjunto": {
+            "filtro": "SAT01",
+            "valor": "TR2"
+        }
+    },
+    "5586": {
+        "equipo_conjunto": {
+            "filtro": "SAT01",
+            "valor": "TR3"
+        }
+    },
+    "5587": {
+        "equipo_conjunto": {
+            "filtro": "SAU01",
+            "valor": "AA1"
+        }
+    },
+    "5588": {
+        "equipo_conjunto": {
+            "filtro": "SAU01",
+            "valor": "UP1"
+        }
+    },
+    "5589": {
+        "equipo_conjunto": {
+            "filtro": "SAU01",
+            "valor": "UP2"
+        }
+    },
+    "5590": {
+        "equipo_conjunto": {
+            "filtro": "SAU01",
+            "valor": "UP3"
+        }
+    },
+    "5591": {
+        "equipo_conjunto": {
+            "filtro": "SAU01",
+            "valor": "UP4"
+        }
+    },
+    "5592": {
+        "equipo_conjunto": {
+            "filtro": "SAU01",
+            "valor": "UP5"
+        }
+    },
+    "5593": {
+        "equipo_conjunto": {
+            "filtro": "SBA92",
+            "valor": "A10"
+        }
+    },
+    "5594": {
+        "equipo_conjunto": {
+            "filtro": "SBA92",
+            "valor": "A11"
+        }
+    },
+    "5595": {
+        "equipo_conjunto": {
+            "filtro": "SBA92",
+            "valor": "A12"
+        }
+    },
+    "5596": {
+        "equipo_conjunto": {
+            "filtro": "SBA92",
+            "valor": "AA1"
+        }
+    },
+    "5597": {
+        "equipo_conjunto": {
+            "filtro": "SBA92",
+            "valor": "AA2"
+        }
+    },
+    "5598": {
+        "equipo_conjunto": {
+            "filtro": "SBA92",
+            "valor": "AA3"
+        }
+    },
+    "5599": {
+        "equipo_conjunto": {
+            "filtro": "SBA92",
+            "valor": "AA4"
+        }
+    },
+    "5600": {
+        "equipo_conjunto": {
+            "filtro": "SBA92",
+            "valor": "AA5"
+        }
+    },
+    "5601": {
+        "equipo_conjunto": {
+            "filtro": "SBA92",
+            "valor": "AA6"
+        }
+    },
+    "5602": {
+        "equipo_conjunto": {
+            "filtro": "SBA92",
+            "valor": "AA7"
+        }
+    },
+    "5603": {
+        "equipo_conjunto": {
+            "filtro": "SBA92",
+            "valor": "AA8"
+        }
+    },
+    "5604": {
+        "equipo_conjunto": {
+            "filtro": "SBA92",
+            "valor": "AA9"
+        }
+    },
+    "5605": {
+        "equipo_conjunto": {
+            "filtro": "SBB01",
+            "valor": "BAB"
+        }
+    },
+    "5606": {
+        "equipo_conjunto": {
+            "filtro": "SBB92",
+            "valor": "AA1"
+        }
+    },
+    "5607": {
+        "equipo_conjunto": {
+            "filtro": "SBB92",
+            "valor": "AA2"
+        }
+    },
+    "5608": {
+        "equipo_conjunto": {
+            "filtro": "SBC92",
+            "valor": "AA1"
+        }
+    },
+    "5609": {
+        "equipo_conjunto": {
+            "filtro": "SBO01",
+            "valor": "BO1"
+        }
+    },
+    "5610": {
+        "equipo_conjunto": {
+            "filtro": "SBO01",
+            "valor": "BO2"
+        }
+    },
+    "5611": {
+        "equipo_conjunto": {
+            "filtro": "SBO01",
+            "valor": "BO3"
+        }
+    },
+    "5612": {
+        "equipo_conjunto": {
+            "filtro": "SBO01",
+            "valor": "BO4"
+        }
+    },
+    "5613": {
+        "equipo_conjunto": {
+            "filtro": "SBR01",
+            "valor": "AA1"
+        }
+    },
+    "5614": {
+        "equipo_conjunto": {
+            "filtro": "SCA01",
+            "valor": "AA1"
+        }
+    },
+    "5615": {
+        "equipo_conjunto": {
+            "filtro": "SCA01",
+            "valor": "AA2"
+        }
+    },
+    "5616": {
+        "equipo_conjunto": {
+            "filtro": "SCA01",
+            "valor": "AA3"
+        }
+    },
+    "5617": {
+        "equipo_conjunto": {
+            "filtro": "SCI01",
+            "valor": "CIZ"
+        }
+    },
+    "5618": {
+        "equipo_conjunto": {
+            "filtro": "SCI01",
+            "valor": "INS"
+        }
+    },
+    "5619": {
+        "equipo_conjunto": {
+            "filtro": "SCI01",
+            "valor": "LUB"
+        }
+    },
+    "5620": {
+        "equipo_conjunto": {
+            "filtro": "SCI01",
+            "valor": "ACC"
+        }
+    },
+    "5621": {
+        "equipo_conjunto": {
+            "filtro": "SCI01",
+            "valor": "ACO"
+        }
+    },
+    "5622": {
+        "equipo_conjunto": {
+            "filtro": "SCI01",
+            "valor": "COR"
+        }
+    },
+    "5623": {
+        "equipo_conjunto": {
+            "filtro": "SCI01",
+            "valor": "CUC"
+        }
+    },
+    "5624": {
+        "equipo_conjunto": {
+            "filtro": "SCI01",
+            "valor": "EST"
+        }
+    },
+    "5625": {
+        "equipo_conjunto": {
+            "filtro": "SCI01",
+            "valor": "LUA"
+        }
+    },
+    "5626": {
+        "equipo_conjunto": {
+            "filtro": "SCI01",
+            "valor": "MOT"
+        }
+    },
+    "5627": {
+        "equipo_conjunto": {
+            "filtro": "SCI01",
+            "valor": "RED"
+        }
+    },
+    "5628": {
+        "equipo_conjunto": {
+            "filtro": "SCI01",
+            "valor": "SEL"
+        }
+    },
+    "5629": {
+        "equipo_conjunto": {
+            "filtro": "SCI01",
+            "valor": "SIR"
+        }
+    },
+    "5630": {
+        "equipo_conjunto": {
+            "filtro": "SCI01",
+            "valor": "ACP"
+        }
+    },
+    "5631": {
+        "equipo_conjunto": {
+            "filtro": "SCI01",
+            "valor": "ARP"
+        }
+    },
+    "5632": {
+        "equipo_conjunto": {
+            "filtro": "SCI01",
+            "valor": "ELE"
+        }
+    },
+    "5633": {
+        "equipo_conjunto": {
+            "filtro": "SCI01",
+            "valor": "NER"
+        }
+    },
+    "5634": {
+        "equipo_conjunto": {
+            "filtro": "SCI01",
+            "valor": "NEU"
+        }
+    },
+    "5635": {
+        "equipo_conjunto": {
+            "filtro": "SCI01",
+            "valor": "SRF"
+        }
+    },
+    "5636": {
+        "equipo_conjunto": {
+            "filtro": "SCI01",
+            "valor": "SRP"
+        }
+    },
+    "5637": {
+        "equipo_conjunto": {
+            "filtro": "SCI02",
+            "valor": "CU1"
+        }
+    },
+    "5638": {
+        "equipo_conjunto": {
+            "filtro": "SCI02",
+            "valor": "EST"
+        }
+    },
+    "5639": {
+        "equipo_conjunto": {
+            "filtro": "SCI02",
+            "valor": "NEU"
+        }
+    },
+    "5640": {
+        "equipo_conjunto": {
+            "filtro": "SCI02",
+            "valor": "SEL"
+        }
+    },
+    "5641": {
+        "equipo_conjunto": {
+            "filtro": "SCI02",
+            "valor": "SEN"
+        }
+    },
+    "5642": {
+        "equipo_conjunto": {
+            "filtro": "SCI02",
+            "valor": "ACP"
+        }
+    },
+    "5643": {
+        "equipo_conjunto": {
+            "filtro": "SCI02",
+            "valor": "ARP"
+        }
+    },
+    "5644": {
+        "equipo_conjunto": {
+            "filtro": "SCI02",
+            "valor": "CIZ"
+        }
+    },
+    "5645": {
+        "equipo_conjunto": {
+            "filtro": "SCI02",
+            "valor": "CUC"
+        }
+    },
+    "5646": {
+        "equipo_conjunto": {
+            "filtro": "SCI02",
+            "valor": "ELE"
+        }
+    },
+    "5647": {
+        "equipo_conjunto": {
+            "filtro": "SCI02",
+            "valor": "NER"
+        }
+    },
+    "5648": {
+        "equipo_conjunto": {
+            "filtro": "SCI02",
+            "valor": "SRF"
+        }
+    },
+    "5649": {
+        "equipo_conjunto": {
+            "filtro": "SCI02",
+            "valor": "SRP"
+        }
+    },
+    "5650": {
+        "equipo_conjunto": {
+            "filtro": "SCI03",
+            "valor": "CUC"
+        }
+    },
+    "5651": {
+        "equipo_conjunto": {
+            "filtro": "SCI03",
+            "valor": "ELE"
+        }
+    },
+    "5652": {
+        "equipo_conjunto": {
+            "filtro": "SCI03",
+            "valor": "EST"
+        }
+    },
+    "5653": {
+        "equipo_conjunto": {
+            "filtro": "SCI03",
+            "valor": "NEU"
+        }
+    },
+    "5654": {
+        "equipo_conjunto": {
+            "filtro": "SCI04",
+            "valor": "ACC"
+        }
+    },
+    "5655": {
+        "equipo_conjunto": {
+            "filtro": "SCI04",
+            "valor": "COR"
+        }
+    },
+    "5656": {
+        "equipo_conjunto": {
+            "filtro": "SCI04",
+            "valor": "ELE"
+        }
+    },
+    "5657": {
+        "equipo_conjunto": {
+            "filtro": "SCI04",
+            "valor": "EST"
+        }
+    },
+    "5658": {
+        "equipo_conjunto": {
+            "filtro": "SCI04",
+            "valor": "GUI"
+        }
+    },
+    "5659": {
+        "equipo_conjunto": {
+            "filtro": "SCI04",
+            "valor": "LUA"
+        }
+    },
+    "5660": {
+        "equipo_conjunto": {
+            "filtro": "SCI04",
+            "valor": "NEU"
+        }
+    },
+    "5661": {
+        "equipo_conjunto": {
+            "filtro": "SCI04",
+            "valor": "RED"
+        }
+    },
+    "5662": {
+        "equipo_conjunto": {
+            "filtro": "SCN01",
+            "valor": "BA1"
+        }
+    },
+    "5663": {
+        "equipo_conjunto": {
+            "filtro": "SCN01",
+            "valor": "BA2"
+        }
+    },
+    "5664": {
+        "equipo_conjunto": {
+            "filtro": "SCO01",
+            "valor": "AA1"
+        }
+    },
+    "5665": {
+        "equipo_conjunto": {
+            "filtro": "SCO01",
+            "valor": "ALU"
+        }
+    },
+    "5666": {
+        "equipo_conjunto": {
+            "filtro": "SCO01",
+            "valor": "INF"
+        }
+    },
+    "5667": {
+        "equipo_conjunto": {
+            "filtro": "SCO01",
+            "valor": "T01"
+        }
+    },
+    "5668": {
+        "equipo_conjunto": {
+            "filtro": "SCO01",
+            "valor": "T02"
+        }
+    },
+    "5669": {
+        "equipo_conjunto": {
+            "filtro": "SCO01",
+            "valor": "T04"
+        }
+    },
+    "5670": {
+        "equipo_conjunto": {
+            "filtro": "SCO01",
+            "valor": "T05"
+        }
+    },
+    "5671": {
+        "equipo_conjunto": {
+            "filtro": "SCO01",
+            "valor": "T06"
+        }
+    },
+    "5672": {
+        "equipo_conjunto": {
+            "filtro": "SCO01",
+            "valor": "T07"
+        }
+    },
+    "5673": {
+        "equipo_conjunto": {
+            "filtro": "SCO01",
+            "valor": "T08"
+        }
+    },
+    "5674": {
+        "equipo_conjunto": {
+            "filtro": "SCO01",
+            "valor": "T09"
+        }
+    },
+    "5675": {
+        "equipo_conjunto": {
+            "filtro": "SCO01",
+            "valor": "T10"
+        }
+    },
+    "5676": {
+        "equipo_conjunto": {
+            "filtro": "SCO01",
+            "valor": "T11"
+        }
+    },
+    "5677": {
+        "equipo_conjunto": {
+            "filtro": "SCO01",
+            "valor": "T12"
+        }
+    },
+    "5678": {
+        "equipo_conjunto": {
+            "filtro": "SCO01",
+            "valor": "T13"
+        }
+    },
+    "5679": {
+        "equipo_conjunto": {
+            "filtro": "SCO01",
+            "valor": "T14"
+        }
+    },
+    "5680": {
+        "equipo_conjunto": {
+            "filtro": "SCO01",
+            "valor": "T15"
+        }
+    },
+    "5681": {
+        "equipo_conjunto": {
+            "filtro": "SCO01",
+            "valor": "AA2"
+        }
+    },
+    "5682": {
+        "equipo_conjunto": {
+            "filtro": "SCO01",
+            "valor": "ARM"
+        }
+    },
+    "5683": {
+        "equipo_conjunto": {
+            "filtro": "SCO01",
+            "valor": "CP1"
+        }
+    },
+    "5684": {
+        "equipo_conjunto": {
+            "filtro": "SCO01",
+            "valor": "PCS"
+        }
+    },
+    "5685": {
+        "equipo_conjunto": {
+            "filtro": "SCO01",
+            "valor": "PUP"
+        }
+    },
+    "5686": {
+        "equipo_conjunto": {
+            "filtro": "SCO01",
+            "valor": "DRI"
+        }
+    },
+    "5687": {
+        "equipo_conjunto": {
+            "filtro": "SCO01",
+            "valor": "ENC"
+        }
+    },
+    "5688": {
+        "equipo_conjunto": {
+            "filtro": "SCO01",
+            "valor": "SE1"
+        }
+    },
+    "5689": {
+        "equipo_conjunto": {
+            "filtro": "SCO01",
+            "valor": "AA3"
+        }
+    },
+    "5690": {
+        "equipo_conjunto": {
+            "filtro": "SCO02",
+            "valor": "AA1"
+        }
+    },
+    "5691": {
+        "equipo_conjunto": {
+            "filtro": "SCO02",
+            "valor": "AA2"
+        }
+    },
+    "5692": {
+        "equipo_conjunto": {
+            "filtro": "SCO02",
+            "valor": "ALU"
+        }
+    },
+    "5693": {
+        "equipo_conjunto": {
+            "filtro": "SCO02",
+            "valor": "INF"
+        }
+    },
+    "5694": {
+        "equipo_conjunto": {
+            "filtro": "SCO02",
+            "valor": "PCS"
+        }
+    },
+    "5695": {
+        "equipo_conjunto": {
+            "filtro": "SCO02",
+            "valor": "T01"
+        }
+    },
+    "5696": {
+        "equipo_conjunto": {
+            "filtro": "SCO02",
+            "valor": "T02"
+        }
+    },
+    "5697": {
+        "equipo_conjunto": {
+            "filtro": "SCO02",
+            "valor": "T03"
+        }
+    },
+    "5698": {
+        "equipo_conjunto": {
+            "filtro": "SCO02",
+            "valor": "T04"
+        }
+    },
+    "5699": {
+        "equipo_conjunto": {
+            "filtro": "SCO02",
+            "valor": "T05"
+        }
+    },
+    "5700": {
+        "equipo_conjunto": {
+            "filtro": "SCO02",
+            "valor": "T06"
+        }
+    },
+    "5701": {
+        "equipo_conjunto": {
+            "filtro": "SCO02",
+            "valor": "T07"
+        }
+    },
+    "5702": {
+        "equipo_conjunto": {
+            "filtro": "SCO03",
+            "valor": "AA1"
+        }
+    },
+    "5703": {
+        "equipo_conjunto": {
+            "filtro": "SCO03",
+            "valor": "ALU"
+        }
+    },
+    "5704": {
+        "equipo_conjunto": {
+            "filtro": "SCO03",
+            "valor": "INF"
+        }
+    },
+    "5705": {
+        "equipo_conjunto": {
+            "filtro": "SCO03",
+            "valor": "PU1"
+        }
+    },
+    "5706": {
+        "equipo_conjunto": {
+            "filtro": "SCO03",
+            "valor": "PU2"
+        }
+    },
+    "5707": {
+        "equipo_conjunto": {
+            "filtro": "SCO03",
+            "valor": "TA1"
+        }
+    },
+    "5708": {
+        "equipo_conjunto": {
+            "filtro": "SCO03",
+            "valor": "TA2"
+        }
+    },
+    "5709": {
+        "equipo_conjunto": {
+            "filtro": "SCO04",
+            "valor": "AA1"
+        }
+    },
+    "5710": {
+        "equipo_conjunto": {
+            "filtro": "SCO05",
+            "valor": "TAL"
+        }
+    },
+    "5711": {
+        "equipo_conjunto": {
+            "filtro": "SCO05",
+            "valor": "TCH"
+        }
+    },
+    "5712": {
+        "equipo_conjunto": {
+            "filtro": "SCO05",
+            "valor": "TCP"
+        }
+    },
+    "5713": {
+        "equipo_conjunto": {
+            "filtro": "SCS01",
+            "valor": "TA1"
+        }
+    },
+    "5714": {
+        "equipo_conjunto": {
+            "filtro": "SCS01",
+            "valor": "TA2"
+        }
+    },
+    "5715": {
+        "equipo_conjunto": {
+            "filtro": "SEA91",
+            "valor": "AA1"
+        }
+    },
+    "5716": {
+        "equipo_conjunto": {
+            "filtro": "SEA91",
+            "valor": "ARR"
+        }
+    },
+    "5717": {
+        "equipo_conjunto": {
+            "filtro": "SEA91",
+            "valor": "D03"
+        }
+    },
+    "5718": {
+        "equipo_conjunto": {
+            "filtro": "SEA91",
+            "valor": "D04"
+        }
+    },
+    "5719": {
+        "equipo_conjunto": {
+            "filtro": "SEA91",
+            "valor": "DRI"
+        }
+    },
+    "5720": {
+        "equipo_conjunto": {
+            "filtro": "SEA91",
+            "valor": "TA1"
+        }
+    },
+    "5721": {
+        "equipo_conjunto": {
+            "filtro": "SEA91",
+            "valor": "TA2"
+        }
+    },
+    "5722": {
+        "equipo_conjunto": {
+            "filtro": "SEA91",
+            "valor": "TA3"
+        }
+    },
+    "5723": {
+        "equipo_conjunto": {
+            "filtro": "SEA91",
+            "valor": "TA4"
+        }
+    },
+    "5724": {
+        "equipo_conjunto": {
+            "filtro": "SEA91",
+            "valor": "TA5"
+        }
+    },
+    "5725": {
+        "equipo_conjunto": {
+            "filtro": "SEA91",
+            "valor": "TR1"
+        }
+    },
+    "5726": {
+        "equipo_conjunto": {
+            "filtro": "SEA92",
+            "valor": "AA1"
+        }
+    },
+    "5727": {
+        "equipo_conjunto": {
+            "filtro": "SEA92",
+            "valor": "AA2"
+        }
+    },
+    "5728": {
+        "equipo_conjunto": {
+            "filtro": "SEA92",
+            "valor": "AA3"
+        }
+    },
+    "5729": {
+        "equipo_conjunto": {
+            "filtro": "SEA92",
+            "valor": "AA4"
+        }
+    },
+    "5730": {
+        "equipo_conjunto": {
+            "filtro": "SEA92",
+            "valor": "AA5"
+        }
+    },
+    "5731": {
+        "equipo_conjunto": {
+            "filtro": "SEA92",
+            "valor": "AA6"
+        }
+    },
+    "5732": {
+        "equipo_conjunto": {
+            "filtro": "SEA92",
+            "valor": "AA7"
+        }
+    },
+    "5733": {
+        "equipo_conjunto": {
+            "filtro": "SEA92",
+            "valor": "AL1"
+        }
+    },
+    "5734": {
+        "equipo_conjunto": {
+            "filtro": "SEA92",
+            "valor": "AL2"
+        }
+    },
+    "5735": {
+        "equipo_conjunto": {
+            "filtro": "SEA92",
+            "valor": "AL3"
+        }
+    },
+    "5736": {
+        "equipo_conjunto": {
+            "filtro": "SEA92",
+            "valor": "D02"
+        }
+    },
+    "5737": {
+        "equipo_conjunto": {
+            "filtro": "SEA92",
+            "valor": "D03"
+        }
+    },
+    "5738": {
+        "equipo_conjunto": {
+            "filtro": "SEA92",
+            "valor": "D04"
+        }
+    },
+    "5739": {
+        "equipo_conjunto": {
+            "filtro": "SEA92",
+            "valor": "D05"
+        }
+    },
+    "5740": {
+        "equipo_conjunto": {
+            "filtro": "SEA92",
+            "valor": "D06"
+        }
+    },
+    "5741": {
+        "equipo_conjunto": {
+            "filtro": "SEA92",
+            "valor": "D07"
+        }
+    },
+    "5742": {
+        "equipo_conjunto": {
+            "filtro": "SEA92",
+            "valor": "D08"
+        }
+    },
+    "5743": {
+        "equipo_conjunto": {
+            "filtro": "SEA92",
+            "valor": "D09"
+        }
+    },
+    "5744": {
+        "equipo_conjunto": {
+            "filtro": "SEA92",
+            "valor": "D10"
+        }
+    },
+    "5745": {
+        "equipo_conjunto": {
+            "filtro": "SEA92",
+            "valor": "D11"
+        }
+    },
+    "5746": {
+        "equipo_conjunto": {
+            "filtro": "SEA92",
+            "valor": "D12"
+        }
+    },
+    "5747": {
+        "equipo_conjunto": {
+            "filtro": "SEA92",
+            "valor": "D13"
+        }
+    },
+    "5748": {
+        "equipo_conjunto": {
+            "filtro": "SEA92",
+            "valor": "D14"
+        }
+    },
+    "5749": {
+        "equipo_conjunto": {
+            "filtro": "SEA92",
+            "valor": "D17"
+        }
+    },
+    "5750": {
+        "equipo_conjunto": {
+            "filtro": "SEA92",
+            "valor": "D18"
+        }
+    }
+}
